@@ -7,6 +7,7 @@ The software requirements are:
 - Picom
 - Polybar
 - Alacritty
+- Feh
 
 To install to your system simply run:
 ```
