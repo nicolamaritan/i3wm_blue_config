@@ -1,0 +1,34 @@
+font:
+  size: 10
+
+window:
+  opacity: 0.95
+  padding:
+    x: 5
+    y: 5
+
+colors:
+  primary:
+    #background: '0x041427'
+    background: '0x020d1a'  
+    foreground: '0xffffff'
+      
+  normal:
+    black:   '0x000000'
+    red:     '0xe62020'
+    green:   '0x40c916'
+    yellow:  '0xd7ed11'
+    blue:    '0x0e9ac4'
+    magenta: '0xc91ec9'
+    cyan:    '0x20c7c7'
+    white:   '0xffffff'
+
+  bright:
+    black:   '0x000000'
+    red:     '0xf04141'
+    green:   '0x59f02b'
+    yellow:  '0xe0f23d'
+    blue:    '0x3c6eb4' #Fedora Blue Color: https://fedoraproject.org/wiki/Logo/UsageGuidelines#Colors
+    magenta: '0xdb47de'
+    cyan:    '0x54dede'
+    white:   '0xfff6e3'
