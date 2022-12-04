@@ -9,7 +9,6 @@ window:
 
 colors:
   primary:
-    #background: '0x041427'
     background: '0x020d1a'  
     foreground: '0xffffff'
       
