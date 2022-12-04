@@ -9,4 +9,6 @@ The software requirements are:
 - Alacritty
 
 To install to your system simply run:
+```
 $ bash install.sh
+```
